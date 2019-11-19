@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-![Take a screenshot of your website in your preview window in Cloud9. Rename the
-screenshot, then put the image file in your img folder, and reference the image from
-within your markdown file. The code looks something like this](img/MV_Website.PNG)
 <html lang="en">
 
 <head>
